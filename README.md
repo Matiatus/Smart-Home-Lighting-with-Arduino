@@ -14,7 +14,7 @@ Here's the [Project Video](https://youtu.be/byu-lTWPcW8)
 
 ### Under the hood:
 
-![picture](https://github.com/Matiatus/MyFirstProject/blob/master/Algorithm.png)
+![picture](https://github.com/Matiatus/Smart-Home-Lighting-with-Arduino/blob/master/Algorithm.png)
 
 ### Built With
 
